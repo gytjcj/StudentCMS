@@ -39,15 +39,11 @@ composer install
 php artisan stucms:run
 ```
 
-
-### 演示站点
-http://stu.yushihua.vip
-
 - 管理员账号:admin/admin
 - 学生账号:test/test
 
 >
-> B站部署视频教程:
+> 原著B站部署视频教程:
 >
 > https://www.bilibili.com/video/BV1Wv411r7nT
 >
@@ -61,34 +57,6 @@ http://stu.yushihua.vip
 - Laravel
 - layui
 - layuimini
-
-### 交流群
-已解散
-
-### 配套毕业论文
-请联系作者获取（有偿），备注：毕业论文
-
-QQ: 974988176
-
-WX: lg974988176
-
-
-### 图片演示
-
-![个人分析](https://github.com/974988176/StudentCMS/blob/master/screenshots/%E4%B8%AA%E4%BA%BA%E5%88%86%E6%9E%90.jpg?raw=true)
-
-
-![学生列表](https://github.com/974988176/StudentCMS/blob/master/screenshots/%E5%AD%A6%E7%94%9F%E5%88%97%E8%A1%A8.jpg?raw=true)
-
-
-![总体分析](https://github.com/974988176/StudentCMS/blob/master/screenshots/%E6%80%BB%E4%BD%93%E5%88%86%E6%9E%90.jpg?raw=true)
-
-
-![成绩查询](https://github.com/974988176/StudentCMS/blob/master/screenshots/%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2.jpg?raw=true)
-
-
-![课程分析](https://github.com/974988176/StudentCMS/blob/master/screenshots/%E8%AF%BE%E7%A8%8B%E5%88%86%E6%9E%90.jpg?raw=true)
-
 
 ### 常见问题
 
@@ -136,6 +104,4 @@ WX: lg974988176
 >
 > user_has_permissions: 用户拥有的特殊权限表,暂时未用
 
-# StudentCMS
-# StudentCMS
 # StudentCMS
